@@ -1,2 +1,2 @@
 # C-Project
-This my Project on Language on C++
+this is my programming language project using C++
